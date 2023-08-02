@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shiv</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-    <style>
-        img {
-            width: 50%; /* You can adjust this percentage to make the image smaller or larger */
-            height: auto; /* This will maintain the image's aspect ratio */
-        }
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumarsha&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumarsha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumarsha" alt="shivamkumarsha" /></a> </p>
